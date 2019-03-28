@@ -1,4 +1,4 @@
-##Marvel POC
+# Marvel POC
 
 
-A little project to learn Meteor
+**A little project to learn Meteor**
